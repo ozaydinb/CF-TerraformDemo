@@ -15,7 +15,7 @@ https://www.terraform.io/intro/getting-started/install.html
 
 4- Run "./azure-setup.sh setup" to create credentials.
 
-# Run Terraform script
+# Run Terraform Script
 
 1- git clone
 
